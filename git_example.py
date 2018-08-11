@@ -1,5 +1,5 @@
 ```
-This python file is a goood starting point.
+This python file is a good starting point.
 Activation Functions
 ```
 
@@ -13,6 +13,7 @@ def sigmoid(x):
 def tanh(x):
   # enter code below
   
+  
 def relu(x):
-  # entr code below
+  # enter code below
   
